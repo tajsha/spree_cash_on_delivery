@@ -2,11 +2,11 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_cash_on_delivery'
-  s.version     =  '3.0.0'
+  s.version     =  '1.0.0'
   s.summary     = 'Payment Method Cash On Delivery'
   s.description = 'Payment Method Cash On Delivery'
-  s.author      = 'Pablo'
-  s.email       = 'pablotorre81@gmail.com'
+  s.author      = 'Shaik'
+  s.email       = 'tajshavali@gmail.com'
   s.required_ruby_version = '>= 1.9.3'
 
   #s.files       = `git ls-files`.split("\n")
