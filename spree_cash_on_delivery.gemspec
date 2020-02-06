@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.description = 'Payment Method Cash On Delivery'
   s.author      = 'Shaik'
   s.email       = 'tajshavali@gmail.com'
-  s.required_ruby_version = '>= 1.9.3'
+  s.required_ruby_version = '>= 2.5.1'
 
   #s.files       = `git ls-files`.split("\n")
   #s.test_files  = `git ls-files -- {test,spec,features}/*`.split("\n")
