@@ -18,3 +18,7 @@ Spree::Payment.class_eval do
   end
 
 end
+
+# Ugly fix: NameError: define constant Spree::PaymentDecorator
+class Spree::PaymentDecorator
+end
